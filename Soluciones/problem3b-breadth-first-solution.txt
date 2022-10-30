@@ -1,0 +1,27 @@
+Solution length: 18
+Solution cost: 1262.4599999999998
+Solution: 
+[Action(126, 81, 36.26), Action(81, 212, 60.25), Action(212, 103, 78.69), Action(103, 223, 65.52), Action(223, 152, 89.77), Action(152, 63, 44.28), Action(63, 150, 91.22), Action(150, 100, 122.59), Action(100, 230, 38.32), Action(230, 224, 48.06), Action(224, 101, 49.39), Action(101, 7, 68.9), Action(7, 21, 63.54), Action(21, 78, 160.82), Action(78, 73, 90.31), Action(73, 138, 81.31), Action(138, 25, 34.57), Action(25, 315, 38.66)]
+City Path: 
+(Águilas -> Lorca)
+(Lorca -> Caravaca de la Cruz)
+(Caravaca de la Cruz -> Hellín)
+(Hellín -> Albacete)
+(Albacete -> Villarrobledo)
+(Villarrobledo -> Tomelloso)
+(Tomelloso -> Ciudad Real)
+(Ciudad Real -> Toledo)
+(Toledo -> Illescas)
+(Illescas -> Navalcarnero)
+(Navalcarnero -> Rozas de Madrid (Las))
+(Rozas de Madrid (Las) -> Galapagar)
+(Galapagar -> Segovia)
+(Segovia -> Palencia)
+(Palencia -> Burgos)
+(Burgos -> Miranda de Ebro)
+(Miranda de Ebro -> Vitoria-Gasteiz)
+(Vitoria-Gasteiz -> Arrasate/Mondragón)
+
+Generated nodes: 1072
+Expanded nodes: 215
+Time elapsed: 0.015744823999966684 s

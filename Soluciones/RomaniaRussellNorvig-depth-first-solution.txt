@@ -1,0 +1,16 @@
+Solution length: 7
+Solution cost: 733.0
+Solution: 
+[Action(2, 7, 118), Action(7, 8, 111), Action(8, 10, 70), Action(10, 14, 75), Action(14, 15, 120), Action(15, 9, 138), Action(9, 13, 101)]
+City Path: 
+(Arad -> Timisoara)
+(Timisoara -> Lugoj)
+(Lugoj -> Mehadia)
+(Mehadia -> Drobeta-Turnu Severin)
+(Drobeta-Turnu Severin -> Craiova)
+(Craiova -> Pitesti)
+(Pitesti -> Bucharest)
+
+Generated nodes: 18
+Expanded nodes: 7
+Time elapsed: 0.0003437200000462326 s

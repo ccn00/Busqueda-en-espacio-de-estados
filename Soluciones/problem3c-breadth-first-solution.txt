@@ -1,0 +1,23 @@
+Solution length: 14
+Solution cost: 1212.4
+Solution: 
+[Action(73, 78, 90.31), Action(78, 21, 160.82), Action(21, 7, 63.54), Action(7, 101, 68.9), Action(101, 224, 49.39), Action(224, 230, 48.06), Action(230, 100, 38.32), Action(100, 150, 122.59), Action(150, 233, 40.57), Action(233, 114, 137.02), Action(114, 157, 72.12), Action(157, 353, 108.04), Action(353, 61, 138.39), Action(61, 47, 74.33)]
+City Path: 
+(Burgos -> Palencia)
+(Palencia -> Segovia)
+(Segovia -> Galapagar)
+(Galapagar -> Rozas de Madrid (Las))
+(Rozas de Madrid (Las) -> Navalcarnero)
+(Navalcarnero -> Illescas)
+(Illescas -> Toledo)
+(Toledo -> Ciudad Real)
+(Ciudad Real -> Puertollano)
+(Puertollano -> Andújar)
+(Andújar -> Úbeda)
+(Úbeda -> Guadix)
+(Guadix -> Ejido (El))
+(Ejido (El) -> Níjar)
+
+Generated nodes: 680
+Expanded nodes: 142
+Time elapsed: 0.009816531999831568 s

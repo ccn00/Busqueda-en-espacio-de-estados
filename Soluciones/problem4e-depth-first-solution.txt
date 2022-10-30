@@ -1,0 +1,47 @@
+Solution length: 38
+Solution cost: 1019.9000000000003
+Solution: 
+[Action(301, 912, 56.6), Action(912, 963, 15.4), Action(963, 575, 29.0), Action(575, 765, 24.4), Action(765, 699, 19.8), Action(699, 646, 19.1), Action(646, 714, 41.4), Action(714, 565, 30.9), Action(565, 390, 41.2), Action(390, 290, 29.5), Action(290, 22, 41.6), Action(22, 675, 15.1), Action(675, 534, 20.7), Action(534, 299, 19.3), Action(299, 380, 12.1), Action(380, 361, 5.3), Action(361, 0, 16.5), Action(0, 876, 27.5), Action(876, 324, 32.3), Action(324, 315, 51.5), Action(315, 571, 32.2), Action(571, 169, 48.7), Action(169, 847, 32.1), Action(847, 533, 36.4), Action(533, 905, 29.8), Action(905, 205, 7.7), Action(205, 119, 35.7), Action(119, 930, 8.1), Action(930, 148, 24.8), Action(148, 812, 37.1), Action(812, 786, 14.7), Action(786, 735, 24.1), Action(735, 554, 5.5), Action(554, 826, 42.0), Action(826, 194, 27.2), Action(194, 998, 35.1), Action(998, 659, 13.7), Action(659, 631, 15.8)]
+City Path: 
+(Campillo (El) -> Almonaster la Real)
+(Almonaster la Real -> Galaroza)
+(Galaroza -> Cumbres Mayores)
+(Cumbres Mayores -> Bodonal de la Sierra)
+(Bodonal de la Sierra -> Arroyomolinos de León)
+(Arroyomolinos de León -> Cabeza la Vaca)
+(Cabeza la Vaca -> Bienvenida)
+(Bienvenida -> Calera de León)
+(Calera de León -> Cala)
+(Cala -> Almadén de la Plata)
+(Almadén de la Plata -> Burguillos)
+(Burguillos -> Brenes)
+(Brenes -> Algaba (La))
+(Algaba (La) -> Bormujos)
+(Bormujos -> Almensilla)
+(Almensilla -> Bollullos de la Mitación)
+(Bollullos de la Mitación -> Camas)
+(Camas -> Alcalá de Guadaíra)
+(Alcalá de Guadaíra -> Arahal)
+(Arahal -> Campana (La))
+(Campana (La) -> Cañada Rosal)
+(Cañada Rosal -> Almodóvar del Río)
+(Almodóvar del Río -> Córdoba)
+(Córdoba -> Adamuz)
+(Adamuz -> Bujalance)
+(Bujalance -> Cañete de las Torres)
+(Cañete de las Torres -> Castro del Río)
+(Castro del Río -> Espejo)
+(Espejo -> Aguilar de la Frontera)
+(Aguilar de la Frontera -> Badolatosa)
+(Badolatosa -> Alameda)
+(Alameda -> Benamejí)
+(Benamejí -> Encinas Reales)
+(Encinas Reales -> Archidona)
+(Archidona -> Alfarnate)
+(Alfarnate -> Benamargosa)
+(Benamargosa -> Benamocarra)
+(Benamocarra -> Algarrobo)
+
+Generated nodes: 280
+Expanded nodes: 90
+Time elapsed: 0.004395438000074137 s

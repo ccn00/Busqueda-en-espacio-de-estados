@@ -1,0 +1,33 @@
+Solution length: 24
+Solution cost: 694.2
+Solution: 
+[Action(301, 296, 33.0), Action(296, 575, 42.5), Action(575, 765, 24.4), Action(765, 699, 19.8), Action(699, 390, 12.1), Action(390, 290, 29.5), Action(290, 22, 41.6), Action(22, 403, 32.2), Action(403, 315, 30.6), Action(315, 571, 32.2), Action(571, 25, 38.5), Action(25, 847, 32.8), Action(847, 533, 36.4), Action(533, 905, 29.8), Action(905, 119, 31.7), Action(119, 930, 8.1), Action(930, 148, 24.8), Action(148, 812, 37.1), Action(812, 554, 23.3), Action(554, 826, 42.0), Action(826, 194, 27.2), Action(194, 998, 35.1), Action(998, 659, 13.7), Action(659, 631, 15.8)]
+City Path: 
+(Campillo (El) -> Aracena)
+(Aracena -> Cumbres Mayores)
+(Cumbres Mayores -> Bodonal de la Sierra)
+(Bodonal de la Sierra -> Arroyomolinos de León)
+(Arroyomolinos de León -> Cala)
+(Cala -> Almadén de la Plata)
+(Almadén de la Plata -> Burguillos)
+(Burguillos -> Alcolea del Río)
+(Alcolea del Río -> Campana (La))
+(Campana (La) -> Cañada Rosal)
+(Cañada Rosal -> Carlota (La))
+(Carlota (La) -> Córdoba)
+(Córdoba -> Adamuz)
+(Adamuz -> Bujalance)
+(Bujalance -> Castro del Río)
+(Castro del Río -> Espejo)
+(Espejo -> Aguilar de la Frontera)
+(Aguilar de la Frontera -> Badolatosa)
+(Badolatosa -> Encinas Reales)
+(Encinas Reales -> Archidona)
+(Archidona -> Alfarnate)
+(Alfarnate -> Benamargosa)
+(Benamargosa -> Benamocarra)
+(Benamocarra -> Algarrobo)
+
+Generated nodes: 297
+Expanded nodes: 95
+Time elapsed: 0.00734669100006613 s

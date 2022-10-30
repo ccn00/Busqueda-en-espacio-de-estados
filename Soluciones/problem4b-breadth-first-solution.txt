@@ -1,0 +1,31 @@
+Solution length: 22
+Solution cost: 681.0
+Solution: 
+[Action(624, 249, 37.1), Action(249, 562, 21.3), Action(562, 846, 32.9), Action(846, 226, 20.6), Action(226, 414, 28.2), Action(414, 119, 18.8), Action(119, 930, 8.1), Action(930, 148, 24.8), Action(148, 812, 37.1), Action(812, 554, 23.3), Action(554, 826, 42.0), Action(826, 194, 27.2), Action(194, 998, 35.1), Action(998, 659, 13.7), Action(659, 631, 15.8), Action(631, 642, 41.0), Action(642, 189, 57.3), Action(189, 180, 28.6), Action(180, 326, 11.5), Action(326, 389, 37.4), Action(389, 376, 40.9), Action(376, 494, 78.3)]
+City Path: 
+(Alcaudete -> Almedinilla)
+(Almedinilla -> Algarinejo)
+(Algarinejo -> Carcabuey)
+(Carcabuey -> Cabra)
+(Cabra -> Baena)
+(Baena -> Castro del Río)
+(Castro del Río -> Espejo)
+(Espejo -> Aguilar de la Frontera)
+(Aguilar de la Frontera -> Badolatosa)
+(Badolatosa -> Encinas Reales)
+(Encinas Reales -> Archidona)
+(Archidona -> Alfarnate)
+(Alfarnate -> Benamargosa)
+(Benamargosa -> Benamocarra)
+(Benamocarra -> Algarrobo)
+(Algarrobo -> Almuñécar)
+(Almuñécar -> Albuñuelas)
+(Albuñuelas -> Alhendín)
+(Alhendín -> Cájar)
+(Cájar -> Beas de Granada)
+(Beas de Granada -> Benalúa)
+(Benalúa -> Alpujarra de la Sierra)
+
+Generated nodes: 367
+Expanded nodes: 122
+Time elapsed: 0.005533475999982329 s

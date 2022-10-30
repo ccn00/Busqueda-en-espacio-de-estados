@@ -1,0 +1,48 @@
+Solution length: 39
+Solution cost: 630.2
+Solution: 
+[Action(1666, 1610, 6.4), Action(1610, 405, 8.7), Action(405, 1582, 13.4), Action(1582, 2114, 9.0), Action(2114, 1307, 4.2), Action(1307, 2844, 4.9), Action(2844, 862, 5.6), Action(862, 2800, 6.8), Action(2800, 1215, 6.4), Action(1215, 2269, 7.9), Action(2269, 2436, 5.7), Action(2436, 1033, 4.8), Action(1033, 93, 6.5), Action(93, 1725, 12.6), Action(1725, 2912, 34.9), Action(2912, 335, 19.3), Action(335, 1987, 8.3), Action(1987, 1118, 17.4), Action(1118, 954, 12.6), Action(954, 2595, 34.1), Action(2595, 2356, 34.5), Action(2356, 2580, 6.0), Action(2580, 3079, 38.7), Action(3079, 42, 43.8), Action(42, 1982, 47.8), Action(1982, 2131, 29.2), Action(2131, 1206, 22.0), Action(1206, 601, 15.5), Action(601, 2036, 23.5), Action(2036, 2987, 10.4), Action(2987, 2418, 6.1), Action(2418, 406, 40.5), Action(406, 973, 24.1), Action(973, 2529, 11.0), Action(2529, 2659, 14.0), Action(2659, 2666, 9.0), Action(2666, 1492, 6.6), Action(1492, 683, 11.1), Action(683, 1122, 6.9)]
+City Path: 
+(Medio Cudeyo -> Liérganes)
+(Liérganes -> Entrambasaguas)
+(Entrambasaguas -> Ribamontán al Mar)
+(Ribamontán al Mar -> Bareyo)
+(Bareyo -> Arnuero)
+(Arnuero -> Noja)
+(Noja -> Argoños)
+(Argoños -> Bárcena de Cicero)
+(Bárcena de Cicero -> Colindres)
+(Colindres -> Limpias)
+(Limpias -> Ampuero)
+(Ampuero -> Rasines)
+(Rasines -> Ramales de la Victoria)
+(Ramales de la Victoria -> Soba)
+(Soba -> Espinosa de los Monteros)
+(Espinosa de los Monteros -> Villarcayo de Merindad de Castilla la Vieja)
+(Villarcayo de Merindad de Castilla la Vieja -> Medina de Pomar)
+(Medina de Pomar -> Trespaderne)
+(Trespaderne -> Oña)
+(Oña -> Merindad de Río Ubierna)
+(Merindad de Río Ubierna -> Burgos)
+(Burgos -> Villagonzalo Pedernales)
+(Villagonzalo Pedernales -> Lerma)
+(Lerma -> Aranda de Duero)
+(Aranda de Duero -> Mozoncillo)
+(Mozoncillo -> Sepúlveda)
+(Sepúlveda -> Cantalejo)
+(Cantalejo -> Turégano)
+(Turégano -> Torrecaballeros)
+(Torrecaballeros -> Palazuelos de Eresma)
+(Palazuelos de Eresma -> San Ildefonso)
+(San Ildefonso -> Rascafría)
+(Rascafría -> Miraflores de la Sierra)
+(Miraflores de la Sierra -> Bustarviejo)
+(Bustarviejo -> Guadalix de la Sierra)
+(Guadalix de la Sierra -> Venturada)
+(Venturada -> Vellón (El))
+(Vellón (El) -> Talamanca de Jarama)
+(Talamanca de Jarama -> Valdetorres de Jarama)
+
+Generated nodes: 794
+Expanded nodes: 271
+Time elapsed: 0.019802945000037653 s

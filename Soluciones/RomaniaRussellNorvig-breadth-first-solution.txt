@@ -1,0 +1,12 @@
+Solution length: 3
+Solution cost: 450.0
+Solution: 
+[Action(2, 3, 140), Action(3, 4, 99), Action(4, 13, 211)]
+City Path: 
+(Arad -> Sibiu)
+(Sibiu -> Fagaras)
+(Fagaras -> Bucharest)
+
+Generated nodes: 21
+Expanded nodes: 8
+Time elapsed: 0.0003614270001435216 s

@@ -1,0 +1,9 @@
+Solution length: 0
+Solution cost: 0.0
+Solution: 
+[]
+City Path: 
+
+Generated nodes: 1
+Expanded nodes: 0
+Time elapsed: 4.2283999846404186e-05 s

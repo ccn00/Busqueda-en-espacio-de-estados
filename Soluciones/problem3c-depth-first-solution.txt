@@ -1,0 +1,39 @@
+Solution length: 30
+Solution cost: 1972.84
+Solution: 
+[Action(73, 117, 83.76), Action(117, 210, 98.15), Action(210, 298, 56.76), Action(298, 252, 87.43), Action(252, 130, 104.96), Action(130, 99, 67.2), Action(99, 1, 100.84), Action(1, 78, 48.5), Action(78, 21, 160.82), Action(21, 19, 55.55), Action(19, 220, 11.58), Action(220, 183, 15.83), Action(183, 129, 20.84), Action(129, 224, 18.0), Action(224, 230, 48.06), Action(230, 100, 38.32), Action(100, 150, 122.59), Action(150, 275, 62.75), Action(275, 233, 98.36), Action(233, 114, 137.02), Action(114, 333, 57.19), Action(333, 248, 50.84), Action(248, 308, 59.15), Action(308, 353, 54.85), Action(353, 196, 159.81), Action(196, 321, 41.96), Action(321, 135, 14.84), Action(135, 61, 18.32), Action(61, 53, 38.23), Action(53, 47, 40.33)]
+City Path: 
+(Burgos -> Aranda de Duero)
+(Aranda de Duero -> Laguna de Duero)
+(Laguna de Duero -> Medina del Campo)
+(Medina del Campo -> Ávila)
+(Ávila -> Salamanca)
+(Salamanca -> Zamora)
+(Zamora -> Valladolid)
+(Valladolid -> Palencia)
+(Palencia -> Segovia)
+(Segovia -> Collado Villalba)
+(Collado Villalba -> Torrelodones)
+(Torrelodones -> Majadahonda)
+(Majadahonda -> Villaviciosa de Odón)
+(Villaviciosa de Odón -> Navalcarnero)
+(Navalcarnero -> Illescas)
+(Illescas -> Toledo)
+(Toledo -> Ciudad Real)
+(Ciudad Real -> Valdepeñas)
+(Valdepeñas -> Puertollano)
+(Puertollano -> Andújar)
+(Andújar -> Martos)
+(Martos -> Alcalá la Real)
+(Alcalá la Real -> Granada)
+(Granada -> Guadix)
+(Guadix -> Adra)
+(Adra -> Roquetas de Mar)
+(Roquetas de Mar -> Vícar)
+(Vícar -> Ejido (El))
+(Ejido (El) -> Almería)
+(Almería -> Níjar)
+
+Generated nodes: 477
+Expanded nodes: 98
+Time elapsed: 0.0069177200000467565 s
