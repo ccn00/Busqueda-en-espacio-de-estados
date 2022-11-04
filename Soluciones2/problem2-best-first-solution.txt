@@ -1,0 +1,18 @@
+Solution length: 9
+Solution cost: 909.6
+Solution: 
+[Action(52, 44, 113.0), Action(44, 76, 73.1), Action(76, 71, 106.0), Action(71, 81, 101.0), Action(81, 13, 156.0), Action(13, 70, 147.0), Action(70, 86, 84.1), Action(86, 5, 105.0), Action(5, 88, 24.4)]
+City Path: 
+(Alcantarilla -> Caudete)
+(Caudete -> Alcoy/Alcoi)
+(Alcoy/Alcoi -> Albal)
+(Albal -> Alcora (l'))
+(Alcora (l') -> Teruel)
+(Teruel -> Cuenca)
+(Cuenca -> Tarancón)
+(Tarancón -> Azuqueca de Henares)
+(Azuqueca de Henares -> Casar (El))
+
+Generated nodes: 33
+Expanded nodes: 10
+Time elapsed: 0.010874143999899388 s

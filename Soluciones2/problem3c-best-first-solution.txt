@@ -1,0 +1,25 @@
+Solution length: 16
+Solution cost: 1042.1799999999998
+Solution: 
+[Action(73, 117, 83.76), Action(117, 33, 136.79), Action(33, 294, 22.5), Action(294, 336, 21.27), Action(336, 285, 16.05), Action(285, 339, 26.32), Action(339, 36, 21.59), Action(36, 230, 45.26), Action(230, 100, 38.32), Action(100, 150, 122.59), Action(150, 275, 62.75), Action(275, 199, 95.21), Action(199, 157, 29.01), Action(157, 353, 108.04), Action(353, 61, 138.39), Action(61, 47, 74.33)]
+City Path: 
+(Burgos -> Aranda de Duero)
+(Aranda de Duero -> Colmenar Viejo)
+(Colmenar Viejo -> Alcobendas)
+(Alcobendas -> San Fernando de Henares)
+(San Fernando de Henares -> Rivas-Vaciamadrid)
+(Rivas-Vaciamadrid -> Ciempozuelos)
+(Ciempozuelos -> Aranjuez)
+(Aranjuez -> Illescas)
+(Illescas -> Toledo)
+(Toledo -> Ciudad Real)
+(Ciudad Real -> Valdepeñas)
+(Valdepeñas -> Linares)
+(Linares -> Úbeda)
+(Úbeda -> Guadix)
+(Guadix -> Ejido (El))
+(Ejido (El) -> Níjar)
+
+Generated nodes: 84
+Expanded nodes: 16
+Time elapsed: 0.02733329300008336 s

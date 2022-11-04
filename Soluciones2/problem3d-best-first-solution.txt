@@ -1,0 +1,23 @@
+Solution length: 14
+Solution cost: 1183.94
+Solution: 
+[Action(133, 296, 83.82), Action(296, 5, 30.87), Action(5, 276, 77.84), Action(276, 168, 80.38), Action(168, 130, 127.27), Action(130, 1, 119.55), Action(1, 78, 48.5), Action(78, 73, 90.31), Action(73, 138, 81.31), Action(138, 179, 71.85), Action(179, 3, 53.61), Action(3, 94, 157.79), Action(94, 319, 87.22), Action(319, 26, 73.62)]
+City Path: 
+(Badajoz -> Almendralejo)
+(Almendralejo -> Mérida)
+(Mérida -> Cáceres)
+(Cáceres -> Plasencia)
+(Plasencia -> Salamanca)
+(Salamanca -> Valladolid)
+(Valladolid -> Palencia)
+(Palencia -> Burgos)
+(Burgos -> Miranda de Ebro)
+(Miranda de Ebro -> Logroño)
+(Logroño -> Calahorra)
+(Calahorra -> Calatayud)
+(Calatayud -> Zaragoza)
+(Zaragoza -> Huesca)
+
+Generated nodes: 70
+Expanded nodes: 19
+Time elapsed: 0.02353245899985268 s

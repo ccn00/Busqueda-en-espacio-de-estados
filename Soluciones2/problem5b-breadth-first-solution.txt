@@ -1,0 +1,21 @@
+Solution length: 12
+Solution cost: 231.7
+Solution: 
+[Action(77, 603, 6.7), Action(603, 2515, 14.8), Action(2515, 951, 16.1), Action(951, 236, 11.9), Action(236, 3019, 14.2), Action(3019, 1612, 31.5), Action(1612, 649, 23.7), Action(649, 516, 32.2), Action(516, 1584, 37.2), Action(1584, 318, 14.0), Action(318, 359, 12.7), Action(359, 1912, 16.7)]
+City Path: 
+(Siero -> Noreña)
+(Noreña -> Langreo)
+(Langreo -> Mieres)
+(Mieres -> Morcín)
+(Morcín -> Riosa)
+(Riosa -> Quirós)
+(Quirós -> Teverga)
+(Teverga -> Somiedo)
+(Somiedo -> Villablino)
+(Villablino -> Palacios del Sil)
+(Palacios del Sil -> Páramo del Sil)
+(Páramo del Sil -> Toreno)
+
+Generated nodes: 103
+Expanded nodes: 36
+Time elapsed: 0.0015593160001117212 s

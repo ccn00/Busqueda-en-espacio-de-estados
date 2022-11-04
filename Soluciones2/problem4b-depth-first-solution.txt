@@ -1,0 +1,38 @@
+Solution length: 29
+Solution cost: 720.9
+Solution: 
+[Action(624, 897, 19.1), Action(897, 406, 11.9), Action(406, 249, 17.3), Action(249, 562, 21.3), Action(562, 846, 32.9), Action(846, 769, 38.6), Action(769, 414, 12.8), Action(414, 119, 18.8), Action(119, 930, 8.1), Action(930, 148, 24.8), Action(148, 812, 37.1), Action(812, 786, 14.7), Action(786, 735, 24.1), Action(735, 554, 5.5), Action(554, 826, 42.0), Action(826, 194, 27.2), Action(194, 998, 35.1), Action(998, 659, 13.7), Action(659, 631, 15.8), Action(631, 642, 41.0), Action(642, 189, 57.3), Action(189, 180, 28.6), Action(180, 540, 6.9), Action(540, 745, 19.0), Action(745, 351, 4.5), Action(351, 21, 12.7), Action(21, 389, 10.9), Action(389, 376, 40.9), Action(376, 494, 78.3)]
+City Path: 
+(Alcaudete -> Castillo de Locubín)
+(Castillo de Locubín -> Alcalá la Real)
+(Alcalá la Real -> Almedinilla)
+(Almedinilla -> Algarinejo)
+(Algarinejo -> Carcabuey)
+(Carcabuey -> Doña Mencía)
+(Doña Mencía -> Baena)
+(Baena -> Castro del Río)
+(Castro del Río -> Espejo)
+(Espejo -> Aguilar de la Frontera)
+(Aguilar de la Frontera -> Badolatosa)
+(Badolatosa -> Alameda)
+(Alameda -> Benamejí)
+(Benamejí -> Encinas Reales)
+(Encinas Reales -> Archidona)
+(Archidona -> Alfarnate)
+(Alfarnate -> Benamargosa)
+(Benamargosa -> Benamocarra)
+(Benamocarra -> Algarrobo)
+(Algarrobo -> Almuñécar)
+(Almuñécar -> Albuñuelas)
+(Albuñuelas -> Alhendín)
+(Alhendín -> Armilla)
+(Armilla -> Atarfe)
+(Atarfe -> Albolote)
+(Albolote -> Alfacar)
+(Alfacar -> Beas de Granada)
+(Beas de Granada -> Benalúa)
+(Benalúa -> Alpujarra de la Sierra)
+
+Generated nodes: 238
+Expanded nodes: 81
+Time elapsed: 0.003933345999939775 s

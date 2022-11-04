@@ -1,0 +1,42 @@
+Solution length: 33
+Solution cost: 783.1
+Solution: 
+[Action(410, 382, 6.2), Action(382, 682, 34.6), Action(682, 232, 18.8), Action(232, 518, 33.3), Action(518, 92, 38.9), Action(92, 681, 27.4), Action(681, 986, 17.6), Action(986, 221, 47.8), Action(221, 438, 22.8), Action(438, 179, 39.1), Action(179, 661, 24.3), Action(661, 379, 31.5), Action(379, 578, 16.7), Action(578, 48, 9.5), Action(48, 880, 9.5), Action(880, 31, 13.4), Action(31, 116, 20.4), Action(116, 68, 50.8), Action(68, 82, 37.9), Action(82, 693, 30.9), Action(693, 851, 25.8), Action(851, 522, 16.4), Action(522, 809, 10.2), Action(809, 455, 13.1), Action(455, 615, 11.5), Action(615, 593, 21.9), Action(593, 316, 32.0), Action(316, 358, 24.2), Action(358, 992, 8.5), Action(992, 558, 19.0), Action(558, 132, 16.0), Action(132, 655, 27.0), Action(655, 404, 26.1)]
+City Path: 
+(Soria -> Golmayo)
+(Golmayo -> Vinuesa)
+(Vinuesa -> Duruelo de la Sierra)
+(Duruelo de la Sierra -> San Leonardo de Yagüe)
+(San Leonardo de Yagüe -> San Esteban de Gormaz)
+(San Esteban de Gormaz -> Ayllón)
+(Ayllón -> Mozoncillo)
+(Mozoncillo -> Aranda de Duero)
+(Aranda de Duero -> Roa)
+(Roa -> Campaspero)
+(Campaspero -> Montemayor de Pililla)
+(Montemayor de Pililla -> Íscar)
+(Íscar -> Mojados)
+(Mojados -> Aldeamayor de San Martín)
+(Aldeamayor de San Martín -> Boecillo)
+(Boecillo -> Cistérniga)
+(Cistérniga -> Cigales)
+(Cigales -> Medina de Rioseco)
+(Medina de Rioseco -> Mayorga)
+(Mayorga -> Villada)
+(Villada -> Paredes de Nava)
+(Paredes de Nava -> Grijota)
+(Grijota -> Villalobón)
+(Villalobón -> Magaz de Pisuerga)
+(Magaz de Pisuerga -> Torquemada)
+(Torquemada -> Astudillo)
+(Astudillo -> Osorno la Mayor)
+(Osorno la Mayor -> Herrera de Pisuerga)
+(Herrera de Pisuerga -> Alar del Rey)
+(Alar del Rey -> Aguilar de Campoo)
+(Aguilar de Campoo -> Barruelo de Santullán)
+(Barruelo de Santullán -> Cervera de Pisuerga)
+(Cervera de Pisuerga -> Santibáñez de la Peña)
+
+Generated nodes: 131
+Expanded nodes: 41
+Time elapsed: 0.041018436000285874 s

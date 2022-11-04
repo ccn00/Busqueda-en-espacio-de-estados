@@ -1,0 +1,12 @@
+Solution length: 3
+Solution cost: 144.5
+Solution: 
+[Action(911, 1, 21.6), Action(1, 771, 84.3), Action(771, 825, 38.6)]
+City Path: 
+(Castellar de la Frontera -> Jimena de la Frontera)
+(Jimena de la Frontera -> Alcalá de los Gazules)
+(Alcalá de los Gazules -> Algar)
+
+Generated nodes: 11
+Expanded nodes: 3
+Time elapsed: 0.0034363659997325158 s

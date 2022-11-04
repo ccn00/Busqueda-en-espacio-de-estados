@@ -1,0 +1,24 @@
+Solution length: 15
+Solution cost: 964.71
+Solution: 
+[Action(73, 117, 83.76), Action(117, 33, 136.79), Action(33, 40, 11.02), Action(40, 211, 23.33), Action(211, 338, 14.31), Action(338, 153, 9.65), Action(153, 230, 17.21), Action(230, 100, 38.32), Action(100, 150, 122.59), Action(150, 275, 62.75), Action(275, 199, 95.21), Action(199, 157, 29.01), Action(157, 353, 108.04), Action(353, 61, 138.39), Action(61, 47, 74.33)]
+City Path: 
+(Burgos -> Aranda de Duero)
+(Aranda de Duero -> Colmenar Viejo)
+(Colmenar Viejo -> Tres Cantos)
+(Tres Cantos -> Madrid)
+(Madrid -> Getafe)
+(Getafe -> Parla)
+(Parla -> Illescas)
+(Illescas -> Toledo)
+(Toledo -> Ciudad Real)
+(Ciudad Real -> Valdepeñas)
+(Valdepeñas -> Linares)
+(Linares -> Úbeda)
+(Úbeda -> Guadix)
+(Guadix -> Ejido (El))
+(Ejido (El) -> Níjar)
+
+Generated nodes: 524
+Expanded nodes: 107
+Time elapsed: 0.17115143000000899 s

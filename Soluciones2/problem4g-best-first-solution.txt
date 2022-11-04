@@ -1,0 +1,16 @@
+Solution length: 7
+Solution cost: 174.39999999999998
+Solution: 
+[Action(220, 293, 19.4), Action(293, 527, 17.4), Action(527, 77, 18.1), Action(77, 139, 16.6), Action(139, 231, 17.8), Action(231, 620, 19.3), Action(620, 412, 65.8)]
+City Path: 
+(Beariz -> Cerdedo)
+(Cerdedo -> Cotobade)
+(Cotobade -> Campo Lameiro)
+(Campo Lameiro -> Barro)
+(Barro -> Cambados)
+(Cambados -> Grove (O))
+(Grove (O) -> Bueu)
+
+Generated nodes: 30
+Expanded nodes: 8
+Time elapsed: 0.008811677000267082 s

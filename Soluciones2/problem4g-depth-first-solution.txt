@@ -1,0 +1,41 @@
+Solution length: 32
+Solution cost: 854.8000000000002
+Solution: 
+[Action(220, 566, 23.2), Action(566, 913, 28.7), Action(913, 674, 21.8), Action(674, 521, 17.0), Action(521, 627, 31.6), Action(627, 579, 30.3), Action(579, 486, 11.3), Action(486, 932, 35.8), Action(932, 971, 36.3), Action(971, 790, 23.6), Action(790, 689, 15.1), Action(689, 795, 18.5), Action(795, 171, 24.7), Action(171, 552, 38.0), Action(552, 53, 27.8), Action(53, 828, 63.2), Action(828, 207, 35.8), Action(207, 860, 19.1), Action(860, 61, 9.8), Action(61, 164, 28.2), Action(164, 420, 38.3), Action(420, 293, 11.9), Action(293, 527, 17.4), Action(527, 77, 18.1), Action(77, 254, 26.6), Action(254, 73, 12.0), Action(73, 899, 8.7), Action(899, 755, 14.5), Action(755, 191, 11.7), Action(191, 102, 13.4), Action(102, 620, 76.6), Action(620, 412, 65.8)]
+City Path: 
+(Beariz -> Boborás)
+(Boborás -> Dozón)
+(Dozón -> Carballiño (O))
+(Carballiño (O) -> Amoeiro)
+(Amoeiro -> Chantada)
+(Chantada -> Antas de Ulla)
+(Antas de Ulla -> Agolada)
+(Agolada -> Boimorto)
+(Boimorto -> Aranga)
+(Aranga -> Betanzos)
+(Betanzos -> Cambre)
+(Cambre -> Arteixo)
+(Arteixo -> Carballo)
+(Carballo -> Cabana de Bergantiños)
+(Cabana de Bergantiños -> Camariñas)
+(Camariñas -> Carnota)
+(Carnota -> Baña (A))
+(Baña (A) -> Brión)
+(Brión -> Ames)
+(Ames -> Boqueixón)
+(Boqueixón -> Forcarei)
+(Forcarei -> Cerdedo)
+(Cerdedo -> Cotobade)
+(Cotobade -> Campo Lameiro)
+(Campo Lameiro -> Estrada (A))
+(Estrada (A) -> Cuntis)
+(Cuntis -> Caldas de Reis)
+(Caldas de Reis -> Catoira)
+(Catoira -> Capela (A))
+(Capela (A) -> Boiro)
+(Boiro -> Grove (O))
+(Grove (O) -> Bueu)
+
+Generated nodes: 157
+Expanded nodes: 49
+Time elapsed: 0.0025939809997908014 s

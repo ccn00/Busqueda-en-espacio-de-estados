@@ -1,0 +1,25 @@
+Solution length: 16
+Solution cost: 381.3999999999999
+Solution: 
+[Action(77, 603, 6.7), Action(603, 2515, 14.8), Action(2515, 951, 16.1), Action(951, 2011, 19.6), Action(2011, 1047, 19.5), Action(1047, 3019, 32.9), Action(3019, 1612, 31.5), Action(1612, 649, 23.7), Action(649, 2334, 43.3), Action(2334, 691, 25.6), Action(691, 728, 24.5), Action(728, 2401, 29.1), Action(2401, 2267, 20.7), Action(2267, 2396, 35.8), Action(2396, 359, 20.9), Action(359, 1912, 16.7)]
+City Path: 
+(Siero -> Noreña)
+(Noreña -> Langreo)
+(Langreo -> Mieres)
+(Mieres -> Aller)
+(Aller -> Lena)
+(Lena -> Riosa)
+(Riosa -> Quirós)
+(Quirós -> Teverga)
+(Teverga -> Belmonte de Miranda)
+(Belmonte de Miranda -> Salas)
+(Salas -> Tineo)
+(Tineo -> Allande)
+(Allande -> Cangas del Narcea)
+(Cangas del Narcea -> Degaña)
+(Degaña -> Páramo del Sil)
+(Páramo del Sil -> Toreno)
+
+Generated nodes: 85
+Expanded nodes: 29
+Time elapsed: 0.0012968099999852711 s

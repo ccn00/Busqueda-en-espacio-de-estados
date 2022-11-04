@@ -1,0 +1,28 @@
+Solution length: 19
+Solution cost: 1115.18
+Solution: 
+[Action(126, 81, 36.26), Action(81, 212, 60.25), Action(212, 103, 78.69), Action(103, 223, 65.52), Action(223, 152, 89.77), Action(152, 71, 72.52), Action(71, 150, 98.41), Action(150, 100, 122.59), Action(100, 230, 38.32), Action(230, 153, 17.21), Action(153, 260, 12.81), Action(260, 211, 13.39), Action(211, 40, 23.33), Action(40, 33, 11.02), Action(33, 117, 136.79), Action(117, 73, 83.76), Action(73, 138, 81.31), Action(138, 25, 34.57), Action(25, 315, 38.66)]
+City Path: 
+(Águilas -> Lorca)
+(Lorca -> Caravaca de la Cruz)
+(Caravaca de la Cruz -> Hellín)
+(Hellín -> Albacete)
+(Albacete -> Villarrobledo)
+(Villarrobledo -> Alcázar de San Juan)
+(Alcázar de San Juan -> Ciudad Real)
+(Ciudad Real -> Toledo)
+(Toledo -> Illescas)
+(Illescas -> Parla)
+(Parla -> Leganés)
+(Leganés -> Madrid)
+(Madrid -> Tres Cantos)
+(Tres Cantos -> Colmenar Viejo)
+(Colmenar Viejo -> Aranda de Duero)
+(Aranda de Duero -> Burgos)
+(Burgos -> Miranda de Ebro)
+(Miranda de Ebro -> Vitoria-Gasteiz)
+(Vitoria-Gasteiz -> Arrasate/Mondragón)
+
+Generated nodes: 233
+Expanded nodes: 51
+Time elapsed: 0.07787605200019243 s

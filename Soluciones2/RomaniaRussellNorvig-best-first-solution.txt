@@ -1,0 +1,13 @@
+Solution length: 4
+Solution cost: 418.0
+Solution: 
+[Action(2, 3, 140), Action(3, 6, 80), Action(6, 9, 97), Action(9, 13, 101)]
+City Path: 
+(Arad -> Sibiu)
+(Sibiu -> Rimnicu Vilcea)
+(Rimnicu Vilcea -> Pitesti)
+(Pitesti -> Bucharest)
+
+Generated nodes: 14
+Expanded nodes: 4
+Time elapsed: 0.004876757999682013 s
